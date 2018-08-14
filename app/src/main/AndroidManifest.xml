@@ -24,7 +24,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat">
         <activity android:name=".MainActivity"
-            android:label="连接界面"
             android:launchMode="singleTask">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
